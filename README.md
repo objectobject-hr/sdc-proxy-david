@@ -1,1 +1,1 @@
-# sdc-proxy-david
+# sdc-service-david

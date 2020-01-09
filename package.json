@@ -5,7 +5,7 @@
   "main": "index.jsx",
   "scripts": {
     "react-dev": "webpack -d --watch",
-    "start": "nodemon postgresServer/index.js",
+    "start": "nodemon server/index.js",
     "seed": "node --max_old_space_size=7168 db/postgresDB/seed.js"
   },
   "author": "",
